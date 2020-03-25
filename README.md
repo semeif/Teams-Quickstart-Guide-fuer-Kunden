@@ -6,7 +6,7 @@ Hallo liebe "Microsoft Teams" Interessierte,
 wir, das Microsoft Deutschland Modern Workplace Architekten Team, haben eine Anleitung zur schnellen Konfiguration von Microsoft Teams mit den wichtigsten Einstellungen erstellt.
 
 
-## Die Anleitung finden sie [hier](https://aka.ms/teamsforme).
+## Die Anleitung finden Sie [hier](https://aka.ms/teamsforme).
 
 Mit freundlichen Grüßen
 
